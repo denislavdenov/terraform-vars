@@ -7,14 +7,14 @@
 Create a file `variables.tf`
 
 ``` bash
-aws_secret_key  = ""
-aws_access_key  = ""
-ami             = ""
-instance_type   = ""
-public_key      = ""
-private_key     = ""
-identity        = ""
-security_group  = ""
+aws_secret_key     = ""
+aws_access_key     = ""
+ami                = ""
+instance_type      = ""
+public_key         = ""
+private_key        = ""
+identity           = ""
+security_group_id  = ""
 ```
 
 # Read the uploaded code and practice
