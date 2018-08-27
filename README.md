@@ -18,4 +18,6 @@ identity           = ""
 security_group_id  = ""
 ```
 
+# You need to make a file in your Documents folder that is going to be provisioned to the VM and change the name and path of the file in your code
+
 # Read the uploaded code and practice as you have to check and change the username for the connection if you are using different AMI
