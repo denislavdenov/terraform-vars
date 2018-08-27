@@ -17,3 +17,4 @@ identity        = ""
 security_group  = ""
 ```
 
+# Read the uploaded code and practice
