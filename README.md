@@ -1,5 +1,6 @@
 # You have a default VPC and security group in your cloud provider - in this case AWS
-# You have to configure the default security group inbound and outbound rules to allow SSH traffic and ICMP or create a new security group like in the screenshot below
+# It is possible to create a security group with Terraform, but in this exercise we are keeping it simple
+# You have to configure the default security group inbound and outbound rules to allow SSH traffic and ICMP or create a new security group like in the screenshot below using the AWS console
 
 ![Alt text](https://github.com/denislavdenov/terraform-vars/blob/master/screenshots/Screen%20Shot%202018-08-27%20at%2016.42.56.png "Optional title")
 
