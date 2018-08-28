@@ -1,3 +1,9 @@
+variable "ami" {}
+variable "instance_type" {}
+variable "identity" {}
+variable "public_key" {}
+variable "security_group_id" {}
+
 resource "aws_key_pair" "training" {
   key_name   = "${var.identity}-key"
   public_key = "${var.public_key}"
